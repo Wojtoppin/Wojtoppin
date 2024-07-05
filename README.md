@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wojtoppin
+- 👋 Hi, I’m Wojciech
 - 🌱 I’m currently learning react and node.js
 - 📫 If you wat to contact me this is my e-mail: wojtop@interia.pl
 
